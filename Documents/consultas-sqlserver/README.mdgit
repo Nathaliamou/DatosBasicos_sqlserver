@@ -1,0 +1,1 @@
+"# DatosBasicos_sqlserver"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Nathaliamou/DatosBasicos_sqlserver.gitgit push -u origin main
